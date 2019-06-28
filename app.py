@@ -16,7 +16,7 @@ def after_request(response):
 
 @app.route('/')
 def index():
-    return Response('ETRI CAR TEST 0628 #3')
+    return Response('ETRI CAR TEST 0628 #45')
 
 
 @app.route('/local')
