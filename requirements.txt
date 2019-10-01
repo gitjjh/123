@@ -1,3 +1,4 @@
+pip
 numpy
 Pillow>=1.0
 Flask
